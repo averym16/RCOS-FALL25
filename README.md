@@ -1,5 +1,5 @@
 # RCOS-FALL25
--Avery Morrison
-![Bus Icon](download.png)
--Class of 2028
--Project Team: Shubble
+-   Avery Morrison
+-   Class of 2028
+-   Project Team: Shubble
+-   ![Bus Icon](download.png)
